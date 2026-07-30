@@ -2,7 +2,7 @@
 // CONFIG
 // ============================================================
 // Point this at wherever your FastAPI app (main.py) is running.
-const API_BASE = "https://nyc-room-type-predictor-x8q9.onrender.com";
+const API_BASE = "https://nyc-room-type-predictor-x8q9.onrender.comgi";
 
 // Room type classes in the exact order scikit-learn sorts string
 // labels (alphabetical) -> this matches the order of the
