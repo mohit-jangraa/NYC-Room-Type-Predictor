@@ -2,7 +2,7 @@
 // CONFIG
 // ============================================================
 // Point this at wherever your FastAPI app (main.py) is running.
-const API_BASE = "http://127.0.0.1:8000";
+const API_BASE = "https://house-price-prediction-ng0y.onrender.com";
 
 // Room type classes in the exact order scikit-learn sorts string
 // labels (alphabetical) -> this matches the order of the
