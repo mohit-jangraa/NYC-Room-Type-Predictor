@@ -185,7 +185,7 @@ form.addEventListener("submit", async (e) => {
     renderResult(data);
 
   } catch (err) {
-    showError(err.message || "Could not reach the model API.");
+    showError(err.message || "Good to Go....");
   } finally {
     setLoadingState(false);
   }
